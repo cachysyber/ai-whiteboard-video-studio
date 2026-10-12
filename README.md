@@ -6,6 +6,8 @@ This is a showcase of a production system I designed and run for two faceless Yo
 
 ![The pen draws each illustration the moment the narrator says the word](docs/images/drawing.gif)
 
+**▶ Watch a finished video:** [You Got a Raise. So Why Aren't You Richer?](https://youtu.be/ogEx7TnEPIE) (Tess on Finance)
+
 > The source code lives in a private repository. This page explains what the system does, how it is built and the decisions behind it.
 > I designed the system, made the product and quality decisions, and directed AI coding agents (Claude Code) to write and test the code.
 
